@@ -1,0 +1,124 @@
+header{
+
+    display: inline-flex;
+
+    width: 100%;
+
+    background-color: white;
+
+    /* position: fixed; */
+
+}
+
+.hea li{
+
+    display: inline;
+
+    list-style: none;
+
+    margin-right: 40px;
+
+}
+
+.hea li a{
+
+    text-decoration: none;
+
+    color: black;
+
+    text-transform: uppercase;
+
+}
+
+header h3{
+
+   margin-left: 280px;
+
+}
+
+body{
+
+    width: 100%;
+
+}
+
+.hell{
+
+    display: inline-flex;
+
+}
+
+.hell li a{
+
+    text-decoration: none;
+
+    color: black;
+
+}
+
+.hell li{
+
+    list-style: none;
+
+    
+
+}
+
+
+.bags{
+
+    margin-left: 1100px;
+
+}
+
+main{
+
+    width: 100%;
+
+    height: 100vh;
+
+    position: absolute;
+
+    background-repeat:no-repeat;
+
+    background-size: cover;
+
+    position: absolute;
+
+
+
+}
+
+main .btn{
+
+    width: 280px;
+
+    height: 80px;
+
+    position: relative;
+
+    background: white;
+
+    top: -285px;
+
+    left: 108px;
+
+
+}
+
+main .obj{
+
+    width: 80px;
+
+    height: 80px;
+
+    position: relative;
+
+    background: white;
+
+    top: -811px;
+
+    right:-1653px ;
+
+
+}
